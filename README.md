@@ -1,8 +1,6 @@
 Aufgabe 2: Markdown
 =========
 
----
-
 ###Liste
 
 1. Bla?
